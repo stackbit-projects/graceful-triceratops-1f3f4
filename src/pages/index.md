@@ -47,7 +47,7 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-      - text: lorem-ipsum
+      - text: This is the 3rd testimonial
         author:
           name: lorem-ipsum
           location: lorem-ipsum

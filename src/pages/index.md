@@ -60,7 +60,8 @@ sections:
     section_id: featured-product-1
     light_title: false
     icon: false
-    featured_products: []
+    featured_products:
+      - src/pages/products/plant7.md
     type: featured_products_section
 template: home
 ---

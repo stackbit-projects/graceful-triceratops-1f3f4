@@ -57,7 +57,7 @@ sections:
       url: /store
       style: secondary
   - title: One featured product
-    section_id: lorem-ipsum
+    section_id: featured-product-1
     light_title: false
     icon: false
     featured_products: []

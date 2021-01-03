@@ -62,6 +62,7 @@ sections:
     icon: false
     featured_products:
       - src/pages/products/plant7.md
+      - src/pages/products/plant6.md
     type: featured_products_section
 template: home
 ---

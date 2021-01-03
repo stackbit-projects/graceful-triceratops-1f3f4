@@ -58,7 +58,7 @@ sections:
       style: secondary
   - title: One featured product
     section_id: featured-product-1
-    light_title: false
+    light_title: true
     icon: false
     featured_products: []
     type: featured_products_section

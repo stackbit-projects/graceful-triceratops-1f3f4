@@ -47,10 +47,6 @@ sections:
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
-      - text: This is the 3rd testimonial
-        author:
-          name: lorem-ipsum
-          location: lorem-ipsum
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer

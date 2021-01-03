@@ -59,7 +59,7 @@ sections:
   - title: One featured product
     section_id: featured-product-1
     light_title: false
-    icon: false
+    icon: true
     featured_products: []
     type: featured_products_section
 template: home
